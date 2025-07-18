@@ -1,0 +1,22 @@
+# Data processing
+pandas
+numpy
+openpyxl
+xlrd
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Local LLM Querying via Ollama
+langchain
+langchain-community
+
+# Optional: for exporting Excel/PDF reports
+xlsxwriter
+fpdf
+
+google-genai
+streamlit
+
