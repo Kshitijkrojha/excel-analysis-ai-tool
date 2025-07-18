@@ -15,6 +15,7 @@ An interactive Streamlit web app that lets users upload Excel files, explore dat
 ---
 
 ## Demo
+https://excel-analysis-ai-tool-ec9aodwyklgbnwkabay8ta.streamlit.app/
 
 
 
